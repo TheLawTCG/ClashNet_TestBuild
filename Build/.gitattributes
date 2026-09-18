@@ -1,1 +1,1 @@
-ClashNet_TestBuild.data.br filter=lfs diff=lfs merge=lfs -text
+ClashNet_TestBuild.data filter=lfs diff=lfs merge=lfs -text

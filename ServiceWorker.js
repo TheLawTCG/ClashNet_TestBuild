@@ -1,9 +1,9 @@
 const cacheName = "TheLawTCG-ClashNet-0.4.0";
 const contentToCache = [
     "Build/ClashNet_TestBuild.loader.js",
-    "Build/ClashNet_TestBuild.framework.js.br",
-    "Build/ClashNet_TestBuild.data.br",
-    "Build/ClashNet_TestBuild.wasm.br",
+    "Build/ClashNet_TestBuild.framework.js",
+    "Build/ClashNet_TestBuild.data",
+    "Build/ClashNet_TestBuild.wasm",
     "TemplateData/style.css"
 
 ];
